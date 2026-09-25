@@ -1,0 +1,13 @@
+,mean_abs_shap
+RevolvingUtilizationOfUnsecuredLines,0.8391077
+NumberOfTime30-59DaysPastDueNotWorse,0.37471926
+NumberOfTimes90DaysLate,0.31799775
+age,0.2274711
+NumberOfTime60-89DaysPastDueNotWorse,0.17087679
+NumberOfOpenCreditLinesAndLoans,0.15745376
+DebtRatio,0.11001088
+NumberRealEstateLoansOrLines,0.10870579
+MonthlyIncome,0.102788284
+income_missing,0.032891028
+NumberOfDependents,0.022427754
+extreme_delinquency_flag,0.0
